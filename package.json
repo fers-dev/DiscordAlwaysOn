@@ -1,0 +1,25 @@
+{
+  "name": "discordalwayson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fers-dev/DiscordAlwaysOn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fers-dev/DiscordAlwaysOn/issues"
+  },
+  "homepage": "https://github.com/fers-dev/DiscordAlwaysOn#readme",
+  "dependencies": {
+    "eris": "^0.16.1",
+    "express": "^4.18.1"
+  }
+}
